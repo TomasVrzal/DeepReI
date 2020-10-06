@@ -1,0 +1,18 @@
+Package: DeepReI
+Type: Package
+Title: Deep Learning-based Retention Index Predictor
+Version: 0.1.0
+Author: Tomas Vrzal, Michaela Maleckova
+Maintainer: Tomas Vrzal <tomas.vrzal@beerresearch.cz>
+Description: Prediction of retention indices of compounds in gas chromatography (semi-standard non-polar stationary phase).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Imports: 
+  shiny (>= 1.4.0.2), 
+  tidyverse (>= 1.3.0),
+  shinybusy (>= 0.2.0),
+  shinyjs (>= 1.1),
+  stringr (>= 1.4.0),
+  writexl(>= 1.3)

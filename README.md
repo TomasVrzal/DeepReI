@@ -7,11 +7,9 @@ INSTRUCTIONS FOR INSTALLATION:
 
 1) Download and install R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/).
 
-2) Download and install Anaconda (https://www.anaconda.com/products/individual) – necessary especially for Windows users.
+2) Download and install 7-Zip (https://www.7-zip.org/).
 
-3) Download and install 7-Zip (https://www.7-zip.org/).
-
-4) Run RStudio and install keras package according instructions at https://tensorflow.rstudio.com/guide/keras/.
+3) Run RStudio and install keras package according instructions at https://tensorflow.rstudio.com/guide/keras/.
 		
 		install.package(“keras”)
 		library(keras)
@@ -19,7 +17,7 @@ INSTRUCTIONS FOR INSTALLATION:
 	
 During the installation, R will ask if miniconda should be installed -> write y to the R console and press Enter button.
 
-5) Install ChemmineR and ChemmineOB packages by typing the following code in R.
+4) Install ChemmineR and ChemmineOB packages by typing the following code in R.
 
 		if (!requireNamespace("BiocManager", quietly = TRUE))
     		install.packages("BiocManager")

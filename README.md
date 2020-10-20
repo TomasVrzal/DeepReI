@@ -3,7 +3,7 @@
 
 INSTRUCTIONS FOR INSTALLATION:
 
-(If R, Anaconda, keras package and 7-Zip are already installed, step 1 – 4 could be skipped.)
+(If R, keras package and 7-Zip are already installed, step 1 – 4 could be skipped.)
 
 1) Download and install R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/).
 

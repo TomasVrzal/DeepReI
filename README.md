@@ -55,7 +55,7 @@ After these steps, the DeepReI model is successfully prepared for use. Checking 
 
 During this first test of the DeepReI, it is beneficial to see notifications appearing in R console. In some cases, a “Tensorflow not found” error could appear, and, it is possible to fix it by typing the following code to R console (after stopping the DeepReI by clicking on red “stop” button).
 
-	tensorflow::install_tensorflow(version = “2.0.0.)
+	tensorflow::install_tensorflow(version = “2.0.0")
  
 
 INSTRUCTIONS FOR USE:

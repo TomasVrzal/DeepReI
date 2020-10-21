@@ -15,7 +15,7 @@ INSTRUCTIONS FOR INSTALLATION:
 		library(keras)
 		install_keras()
 	
-During the installation, R will ask if miniconda should be installed -> write y to the R console and press Enter button.
+During the installation, R will ask if miniconda should be installed -> type y to the R console and press Enter button.
 
 4) Install ChemmineR and ChemmineOB packages by typing the following code in R.
 

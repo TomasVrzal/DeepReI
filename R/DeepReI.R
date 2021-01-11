@@ -92,9 +92,9 @@ shinyApp(
                                                                       div("Development was suported by the Ministry of agriculture of the Czech republic within the institutional support MZE-RO1918."),
                                                                       tags$hr(),
                                                                       div("Please cite as follows:"),
-                                                                      div("reference will be added"),
+                                                                      div("Tomáš Vrzal, Michaela Malečková, Jana Olšovská,DeepReI: Deep learning-based gas chromatographic retention index predictor,Analytica Chimica Acta 1147, 2021, 64 - 71"),
                                                                       tags$hr(),
-                                                                      div("link and DOI will be added; https://github.com/TomasVrzal/DeepReI"),
+                                                                      div("https://doi.org/10.1016/j.aca.2020.12.043; https://github.com/TomasVrzal/DeepReI"),
                                                                       tags$hr(),
                                                                       div("For more info and  troubleshooting please contact the author: tomas.vrzal@beerresearch.cz")
                )

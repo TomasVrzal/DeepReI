@@ -20,7 +20,7 @@ It is designed to predict retention index of molecules (represented as SMILES st
 phases (e.g. 5% phenyl(dimethyl)polysiloxane). Data input, prediction and export of results is performed through GUI of shiny based app.
 }
 \references{
-reference will be added
+Tomáš Vrzal, Michaela Malečková, Jana Olšovská,DeepReI: Deep learning-based gas chromatographic retention index predictor,Analytica Chimica Acta 1147, 2021, 64 - 71
 }
 \author{
 Tomas Vrzal <tomas.vrzal@beerresearch.cz>

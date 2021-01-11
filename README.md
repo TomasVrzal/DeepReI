@@ -1,5 +1,7 @@
 # DeepReI
  Deep Learning-based Gas Chromatographic Retention Index Predictor
+ 
+ Details are published in: Tomáš Vrzal, Michaela Malečková, Jana Olšovská,DeepReI: Deep learning-based gas chromatographic retention index predictor,Analytica Chimica Acta 1147, 2021, 64 - 71, https://doi.org/10.1016/j.aca.2020.12.043
 
 INSTRUCTIONS FOR INSTALLATION:
 

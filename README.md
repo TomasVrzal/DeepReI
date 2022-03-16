@@ -3,7 +3,7 @@
  
  Details are published in: Tomáš Vrzal, Michaela Malečková, Jana Olšovská,DeepReI: Deep learning-based gas chromatographic retention index predictor,Analytica Chimica Acta 1147, 2021, 64 - 71, https://doi.org/10.1016/j.aca.2020.12.043
  
- Development was suported by the Ministry of Agriculture of the Czech republic within the institutional support MZE-RO1918.
+ Development was suported by the Ministry of Agriculture of the Czech Republic within the institutional support MZE-RO1918.
 
 INSTRUCTIONS FOR INSTALLATION:
 
